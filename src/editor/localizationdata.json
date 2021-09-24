@@ -1,0 +1,576 @@
+{
+  "data": {
+    "BrandLocalizations": [
+      {
+        "language": "da",
+        "key": "Front",
+        "value": "Gør en forskel for miljøet - og spar penge på dit næste Moves køb."
+      },
+      {
+        "language": "da",
+        "key": "wsMainPageTitle",
+        "value": "Giv din garderobe nyt liv – og bliv belønnet for det"
+      },
+      {
+        "language": "da",
+        "key": "wsMainPageDescription",
+        "value": "Bruger du stadig dine Moves Styles? Hvis ikke kan du sende dine brugte styles tilbage til os og modtage en gavekortskode til Moves.dk som belønning."
+      },
+      {
+        "language": "da",
+        "key": "wsMainPageDescription2",
+        "value": "Du kan både sende styles du har købt på Moves.dk eller Moves styles som du har købt hos en af vores forhandlere."
+      },
+      {
+        "language": "da",
+        "key": "wsMainWholeSaleTitle",
+        "value": "Varer købt hos en Moves forhandler"
+      },
+      {
+        "language": "da",
+        "key": "wsMainWholeSaleDescription",
+        "value": "Vil du sende en eller flere varer du har købt ved en af vores forhandlere, så klik på knappen nedenfor."
+      },
+      {
+        "language": "da",
+        "key": "wsMainOfferTitle",
+        "value": "Varer købt på Moves.dk"
+      },
+      {
+        "language": "da",
+        "key": "wsMainOfferDescription",
+        "value": "Vil du sende en vare du har købt på moves.dk, så klik på knappen nedenfor. Vi sender dig en gavekortskode på 40% af varens oprindelige salgspris."
+      },
+      {
+        "language": "da",
+        "key": "wsMainSignatureImageUrl",
+        "value": "https://storageaccountourimbea2.blob.core.windows.net/moves/preloved_moves.svg"
+      },
+      {
+        "language": "da",
+        "key": "Front",
+        "value": "Vi tilbyder at købe dine brugte Moves styles tilbage, når du ikke skal bruge dem længere. Når du indleverer dit brugte Moves tøj, sender vi dig en voucher til dit næste køb på webshoppen og sørger for at sælge dine styles videre. Sammen gør vi en forskel for miljøet, ved at forlænge levetiden og glæden af dit Moves tøj. "
+      },
+      {
+        "language": "da",
+        "key": "Front",
+        "value": "Indlever dit tøj nu"
+      },
+      {
+        "language": "da",
+        "key": "mainPageTitle",
+        "value": "Indlevér en vare købt på Moves.dk"
+      },
+      {
+        "language": "da",
+        "key": "mainPageDescription",
+        "value": "Skriv til e-mail adresse og du vil modtage et link med adgang til at oprette en indlevering."
+      },
+      {
+        "language": "da",
+        "key": "mainPageDescription2",
+        "value": ""
+      },
+      {
+        "language": "da",
+        "key": "easyBoxTitle",
+        "value": "Sådan virker det"
+      },
+      {
+        "language": "da",
+        "key": "easyBoxSection1Title",
+        "value": "Opret en indlevering"
+      },
+      {
+        "language": "da",
+        "key": "easyBoxSection1Description",
+        "value": "Opret en indlevering og udvælg nu de styles du gerne vil sende tilbage. Vi sender dig med det samme en gavekortskode som du kan bruge på Moves.dk."
+      },
+      {
+        "language": "da",
+        "key": "easyBoxSection2Title",
+        "value": "Pak dine styles"
+      },
+      {
+        "language": "da",
+        "key": "easyBoxSection2Description",
+        "value": "Pak de styles du ønsker at sende til os. Du skal bruge den forudbetalte GLS label vi sender til dig pr. mail."
+      },
+      {
+        "language": "da",
+        "key": "consumerAlmostTherePackItDesc",
+        "value": "Aflever din pakke hos din nærmeste GLS Pakkeshop. Når vi modtager din pakke sørger vi for at dine styles får et nyt hjem."
+      },
+      {
+        "language": "da",
+        "key": "easyBoxSection3Title",
+        "value": "Send dine styles til os"
+      },
+      {
+        "language": "da",
+        "key": "easyBoxSection3Description",
+        "value": "Aflever din pakke hos din nærmeste pakkeshop og modtag din voucher, som du enten kan bruge på nye eller andre secondhand styles på vores webshop."
+      },
+      {
+        "language": "da",
+        "key": "consumerPageTitle",
+        "value": "Velkommen {0}"
+      },
+      {
+        "language": "da",
+        "key": "consumerPageDescription",
+        "value": "Nedenfor kan du se, hvilke styles du kan indlevere. Vi dækker fragtomkostningerne, så det eneste du skal gøre, er at udvælge styles du vil sende, pakke og aflevere - super nemt! Vi sender dig en gavekortskode med det samme."
+      },
+      {
+        "language": "da",
+        "key": "consumerPageCreditTitle",
+        "value": "Dine kredit koder"
+      },
+      {
+        "language": "da",
+        "key": "consumerPageCreditVoucher",
+        "value": "Ingen kredit koder"
+      },
+      {
+        "language": "da",
+        "key": "consumerPageCreditHistory",
+        "value": "Vis indleveringshistorik"
+      },
+      {
+        "language": "da",
+        "key": "consumerPageTradeInOptions",
+        "value": "Din garderobe"
+      },
+      {
+        "language": "da",
+        "key": "consumerPageNothingHere",
+        "value": "Din garderobe er i øjeblikket tom"
+      },
+      {
+        "language": "da",
+        "key": "consumerPageNothingHereDesc",
+        "value": "Men hold øje! Det er her du kan indlevere dine tidligere køb tilbage til os så andre også kan få glæde af din gode smag."
+      },
+      {
+        "language": "da",
+        "key": "consumerReturnedItems",
+        "value": "Hvis du har returneret tøj, så vær venligst opmærksom på at de stadigvæk kan være vist ovenfor. Derfor nøjes med at indlevere de styles du stadigvæk har."
+      },
+      {
+        "language": "da",
+        "key": "consumerPageConfirmTitle",
+        "value": "Send dine varer"
+      },
+      {
+        "language": "da",
+        "key": "consumerPageConfirmDescription",
+        "value": ""
+      },
+      {
+        "language": "da",
+        "key": "consumerPageConfirmTotal",
+        "value": "Få en gavekortskode på {0} {1}"
+      },
+      {
+        "language": "da",
+        "key": "consumerPageProfile",
+        "value": "Din information"
+      },
+      {
+        "language": "da",
+        "key": "productSize",
+        "value": "Størrelse {0}"
+      },
+      {
+        "language": "da",
+        "key": "productColor",
+        "value": "Farve {0}"
+      },
+      {
+        "language": "da",
+        "key": "productViewDate",
+        "value": "Købt d. {0}"
+      },
+      {
+        "language": "da",
+        "key": "potentialRemoveItem",
+        "value": "Fjern vare"
+      },
+      {
+        "language": "da",
+        "key": "consumerCartConfirm",
+        "value": "Bekræft indlevering"
+      },
+      {
+        "language": "da",
+        "key": "consumerConfirmWillSend",
+        "value": "Ja, jeg har læst og accepterer"
+      },
+      {
+        "language": "da",
+        "key": "consumerConfirmWillSend2",
+        "value": "betingelserne"
+      },
+      {
+        "language": "da",
+        "key": "consumerConfirmTotal",
+        "value": "I alt {0}"
+      },
+      {
+        "language": "da",
+        "key": "consumerConfirm",
+        "value": "Bekræft"
+      },
+      {
+        "language": "da",
+        "key": "consumerConfirmOk",
+        "value": "OK"
+      },
+      {
+        "language": "da",
+        "key": "consumerConfirmTerms",
+        "value": "Tøj du sender skal være i god og ren stand. Vi giver dig en gavekortskode som kan bruges på vores webshop moves.dk. Venligst bemærk at tøj du indleverer ikke returneres. Tøj uden vaskemærke, øvrige mærkninger og andet tøj, der ikke er i god nok stand, til at blive videresolgt vil blive genbrugt, og derfor heller ikke returneret til dig. Tøj du indleverer, vil blive sat til salg på vores webshop moves.dk."
+      },
+      {
+        "language": "da",
+        "key": "consumerConfirmTerms1",
+        "value": "For at være sikker på at en ny forbruger kan få glæde af dit tøj, så send os venligst tøj i god og ren stand med alle mærkninger inde i tøjet."
+      },
+      {
+        "language": "da",
+        "key": "consumerConfirmTerms2",
+        "value": ""
+      },
+      {
+        "language": "da",
+        "key": "consumerAlmostThere",
+        "value": "Du er næsten i mål!"
+      },
+      {
+        "language": "da",
+        "key": "consumerAlmostThereDescription",
+        "value": "Tak for din indlevering! De sidste skridt er hurtige og nemme."
+      },
+      {
+        "language": "da",
+        "key": "consumerAlmostTherePackIt",
+        "value": "Pak dine varer"
+      },
+      {
+        "language": "da",
+        "key": "consumerAlmostTherePackItCode",
+        "value": "Pak dine varer"
+      },
+      {
+        "language": "da",
+        "key": "consumerAlmostTherePackItLabel",
+        "value": "Udskrift fragtlabel her"
+      },
+      {
+        "language": "da",
+        "key": "consumerAlmostTherePackItLabelButton",
+        "value": "Download fragtlabel"
+      },
+      {
+        "language": "da",
+        "key": "consumerAlmostTherePackItHowTo",
+        "value": "I tvivl? Sådan gør du"
+      },
+      {
+        "language": "da",
+        "key": "consumerAlmostThereDropOff",
+        "value": "Aflevering "
+      },
+      {
+        "language": "da",
+        "key": "consumerAlmostThereDropOffDesc",
+        "value": "Aflever din pakke hos din nærmeste GLS Pakkeshop. Vælg din nærmeste pakkeshop her."
+      },
+      {
+        "language": "da",
+        "key": "consumerAlmostThereDropOffFindNearest",
+        "value": "Find nærmeste pakkeshop"
+      },
+      {
+        "language": "da",
+        "key": "consumerAlmostThereCredit",
+        "value": "Gavekortskode"
+      },
+      {
+        "language": "da",
+        "key": "consumerAlmostThereCreditDesc",
+        "value": "Vi har sendt dig en email med din rabatkode. Den kan du bruge allerede nu på Moves.dk. Du kan også se status på din indlevering under \"indleveringshistorik\". Tak for din indsats for miljøet."
+      },
+      {
+        "language": "da",
+        "key": "consumerAlmostTHereBackToStart",
+        "value": "Tilbage til start"
+      },
+      {
+        "language": "da",
+        "key": "consumerAlmostTherePickup",
+        "value": "Afhentning"
+      },
+      {
+        "language": "da",
+        "key": "consumerAlmostTherePleaseWait",
+        "value": " Vent et øjeblik mens vi klargører ... "
+      },
+      {
+        "language": "da",
+        "key": "consumerHowToApplyCode",
+        "value": " Sådan tilføjer du din fragtlabel"
+      },
+      {
+        "language": "da",
+        "key": "consumerHowToApplyCodeSect1",
+        "value": "Fragtkode"
+      },
+      {
+        "language": "da",
+        "key": "consumerHowToApplyCodeSect1Desc",
+        "value": " Før du afleverer pakken hos din valgte pakkeshop, skal du skrive den 9-cifrede kode tydeligt og med din pænest mulige håndskrift. Sørg for at du bruger en vandfast kuglepen, der ikke nemt smitter af."
+      },
+      {
+        "language": "da",
+        "key": "consumerHowToApplyCodeSect2",
+        "value": "Fragtlabel"
+      },
+      {
+        "language": "da",
+        "key": "consumerHowToApplyCodeSect2Desc",
+        "value": " Før du afleverer pakken hos din valgte pakkeshop, skal du printe fragtlabel og tape det fast på pakken. Sørg for at det sidder, så man tydeligt kan se det, og at tapen ikke dækker printet eller stregkoden på din label."
+      },
+      {
+        "language": "da",
+        "key": "consumerHowToApplyCodeButton",
+        "value": "Skjul"
+      },
+      {
+        "language": "da",
+        "key": "consumerDropoffTitle",
+        "value": "Find nærmeste pakkeshop"
+      },
+      {
+        "language": "da",
+        "key": "consumerDropoffHide",
+        "value": "Skjul"
+      },
+      {
+        "language": "da",
+        "key": "consumerHistoryTitle",
+        "value": "Indleveringshistorik"
+      },
+      {
+        "language": "da",
+        "key": "consumerHistoryDesc",
+        "value": "Her kan du se dine seneste indleveringer, samt status på de igangværende. Du kan også finde alle aktive fragtlabels og koder."
+      },
+      {
+        "language": "da",
+        "key": "consumerHistoryNothingTitle",
+        "value": "Du har ingen nuværende indleveringer"
+      },
+      {
+        "language": "da",
+        "key": "consumerHistoryNothingDesc",
+        "value": "Men hold øje, vi opdaterer denne side så snart du har handlet med os."
+      },
+      {
+        "language": "da",
+        "key": "consumerHistoryItemStep1",
+        "value": "Vælg de varer du gerne vil sende tilbage"
+      },
+      {
+        "language": "da",
+        "key": "consumerHistoryItemStep2",
+        "value": "Pak varene ind og aflever dem hos nærmeste pakkeshop"
+      },
+      {
+        "language": "da",
+        "key": "consumerHistoryItemStep3",
+        "value": "Aflevering registreret, rabatkode modtaget"
+      },
+      {
+        "language": "da",
+        "key": "consumerHistoryCredit",
+        "value": "Rabatkode"
+      },
+      {
+        "language": "da",
+        "key": "consumerFreightTitle",
+        "value": "Vælg afleveringsmulighed"
+      },
+      {
+        "language": "da",
+        "key": "consumerFreightDescription",
+        "value": "Vælg fra vores oversigt de fragtfrie afleveringsmuligheder"
+      },
+      {
+        "language": "da",
+        "key": "consumerFreightPostNord",
+        "value": "PostNord"
+      },
+      {
+        "language": "da",
+        "key": "consumerFreightPostNordDescription",
+        "value": "Udskriv en fraglabel og find en PostNord pakkeshop i nærheden af dig."
+      },
+      {
+        "language": "da",
+        "key": "profileTitleUpdate",
+        "value": "Indtast dine oplysninger"
+      },
+      {
+        "language": "da",
+        "key": "profileButtonUpdate",
+        "value": "Fortsat"
+      },
+      {
+        "language": "da",
+        "key": "profileButtonCancel",
+        "value": "Slet"
+      },
+      {
+        "language": "da",
+        "key": "profileFirstName",
+        "value": "Navn"
+      },
+      {
+        "language": "da",
+        "key": "profileSecondName",
+        "value": "Navn2"
+      },
+      {
+        "language": "da",
+        "key": "profileAddress",
+        "value": "Adresse"
+      },
+      {
+        "language": "da",
+        "key": "profileAddress2",
+        "value": "Adresse2"
+      },
+      {
+        "language": "da",
+        "key": "profileZipCode",
+        "value": "Postnummer"
+      },
+      {
+        "language": "da",
+        "key": "profileCity",
+        "value": "By"
+      },
+      {
+        "language": "da",
+        "key": "profileCountry",
+        "value": "Land"
+      },
+      {
+        "language": "da",
+        "key": "profileMail",
+        "value": "Email"
+      },
+      {
+        "language": "da",
+        "key": "profilePhone",
+        "value": "Telefon nummer"
+      },
+      {
+        "language": "da",
+        "key": "profileDataMissingTitle",
+        "value": "Venligst udfyld de manglende felter"
+      },
+      {
+        "language": "da",
+        "key": "profileDataMissingDescription",
+        "value": "Gennemfør din registrering ved at udfylde de manglende felter"
+      },
+      {
+        "language": "da",
+        "key": "profileDataMissingOK",
+        "value": "OK"
+      },
+      {
+        "language": "da",
+        "key": "profileMailInvalid",
+        "value": "Mail er ikke gyldig. Du bruger den måske allerede eller også virker den ikke her."
+      },
+      {
+        "language": "da",
+        "key": "wholeSaleUnknownTitle",
+        "value": "Tilføj style"
+      },
+      {
+        "language": "da",
+        "key": "wholeSaleAddTitle",
+        "value": "Tilføj style"
+      },
+      {
+        "language": "da",
+        "key": "wsMainPageDescription",
+        "value": "Bruger du stadig dine Moves Styles? Hvis ikke kan du sende dine brugte styles til os og modtage en gavekortskode til Moves.dk som belønning."
+      },
+      {
+        "language": "da",
+        "key": "wsMainPageDescription2",
+        "value": "Vi køber styles som du har købt online eller i andre butikker."
+      },
+      {
+        "language": "da",
+        "key": "wsMainPageDescription3",
+        "value": "Har du købt varer i vores online shop før, eller har du tidligere lavet en indlevering?"
+      },
+      {
+        "language": "da",
+        "key": "mainPageNewConsumer",
+        "value": "Start indlevering"
+      },
+      {
+        "language": "da",
+        "key": "wholeSaleRegisterWaitMail",
+        "value": "Tak! Vi har sendt dig en mail med et link som du kan bruge til at færdiggøre din indlevering."
+      },
+      {
+        "language": "da",
+        "key": "wholeSaleCompleteDetails2",
+        "value": "Klik gem for at tilføje varen til din garderobe, eller 'Indlever' hvis du er klar til sende varen nu"
+      },
+      {
+        "language": "da",
+        "key": "consumerAlmostTherePickupPackItDesc",
+        "value": "Pak dine rene styles så pænt som muligt. Hvis du har mulighed for at bruge genbrugt eller miljøvenligt indpakning, er det kun et plus!"
+      },
+      {
+        "language": "da",
+        "key": "wholeSaleButton",
+        "value": "Indlever"
+      },
+      {
+        "language": "da",
+        "key": "wholeSaleConsumerAddTitle",
+        "value": "Har du købt varer et andet sted?"
+      },
+      {
+        "language": "da",
+        "key": "wholeSaleCompleteDetailsTradeIn",
+        "value": "Indlever"
+      },
+      {
+        "language": "da",
+        "key": "productConfirmTrade",
+        "value": "INDLEVER"
+      },
+      {
+        "language": "da",
+        "key": "consumerConfirmTerms2",
+        "value": ""
+      },
+      {
+        "language": "da",
+        "key": "carrierName_shipmondo",
+        "value": "GLS pakkeshop"
+      }
+    ]
+  }
+}
